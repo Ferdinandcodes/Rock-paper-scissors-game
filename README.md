@@ -83,8 +83,7 @@ Create a local database called rps_game and import the table above.
 
 Start MAMP servers and open
 
-arduino
-Copy code
+
 http://localhost:8888/
 Enjoy the game!
 
@@ -99,7 +98,7 @@ Enjoy the game!
 
 👤 Author
 Ferdinand Nel
-📦 GitHub Profile
+
 
 📜 License
 MIT License – free to use, modify, and share.
