@@ -1,0 +1,25 @@
+includes/config.ini   # hides your DB username/password
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+
+*.log
+*.tmp
+*.bak
+*.swp
+*.env
+
+node_modules/
+vendor/
+
+__MACOSX/
+*.zip
+*.tar
+*.gz
+
+error_log
+logs/
+.htaccess.bak
